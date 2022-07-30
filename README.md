@@ -3,7 +3,7 @@
 Прохождение 3D_Лабиринта от первого лица
 
 
-![](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![](imgs/maze.png)
 ## Нажми на надпись и познай что такое Panda3D
 
 [>>>>Panda3D<<<<](https://docs.panda3d.org/1.10/python/index)
